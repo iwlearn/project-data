@@ -1,10 +1,13 @@
 {
   "title": "GEF IW Projects",
   "name": "gef-iw-projects",
+  "source": { "name": "IW:LEARN Project Database",
+              "web": "http://iwlearn.net/iw-projects/@@export.csv"
+            },
   "resources": [
     {
-      "name": "IWLEARN_Projects_2015-02-05.csv",
-      "path": "IWLEARN_Projects_2015-02-05.csv",
+      "name": "GEF International Waters Projects",
+      "path": "data/projects.csv",
       "mediatype": "text/csv",
       "bytes": 902775,
       "schema": {
